@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/karol/CODE/ESPRESSIF/ESP32/blink4/blink/build/CMakeFiles/bootloader
+/home/karol/CODE/ESPRESSIF/ESP32/blink4/blink/build/CMakeFiles/bootloader.rule
+/home/karol/CODE/ESPRESSIF/ESP32/blink4/blink/build/CMakeFiles/bootloader-complete.rule
+/home/karol/CODE/ESPRESSIF/ESP32/blink4/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/karol/CODE/ESPRESSIF/ESP32/blink4/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/karol/CODE/ESPRESSIF/ESP32/blink4/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/karol/CODE/ESPRESSIF/ESP32/blink4/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/karol/CODE/ESPRESSIF/ESP32/blink4/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/karol/CODE/ESPRESSIF/ESP32/blink4/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/karol/CODE/ESPRESSIF/ESP32/blink4/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
